@@ -1,29 +1,8 @@
 [
   {
-  "502530377b85251f6485c209fee5bf639256559708441feee55a8409e20befae": {
-    "name": "@AF_Team_Ower",
-    "start_date": "2025-01-01",
-    "expire_date": "2025-12-31"
-  }
-},
-  {
-  "heheheheheh": {
-    "name": "Monarch",
-    "start_date": "2025-01-01",
-    "expire_date": "2025-12-31"
-  }
-},
-  {
   "ae6f034d8374fafafd351649a4f01e1f633ecf86397e00ac82dafdf78daf30e1": {
     "name": "Null x shop",
     "start_date": "2025-01-01",
     "expire_date": "2026-12-31"
-  },
-},
-  {
-  "c0b4d7fc115fd04a530577c520f88b860ddb27360f8d6ea57d7669645ae9e066": {
-    "name": "MIX",
-    "start_date": "2025-01-01",
-    "expire_date": "2026-12-31"
-  }
+  }  
 ]
