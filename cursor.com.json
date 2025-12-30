@@ -6,16 +6,18 @@
     "expire_date": "2025-12-31"
   }
 },
-  {
-  "3c10f5ced2b53e8d098702d9be7eb038b84a7e711a78a3b3ff283ed88ed0d894": {
-    "name": "Monarch",
-    "start_date": "2025-01-01",
-    "expire_date": "2025-12-31"
-  },
  {
   "cbb9db4b3062a21f184ca1136497396ea9c20cbcc16460da1b73d4c8cf3c33f6": {
-    "name": "Zero",
-    "start_date": "2025-12-26",
+    "name": "ZERO",
+    "start_date": "2025-12-01",
     "expire_date": "2026-12-31"
   }
+},
+  {
+  "c0b4d7fc115fd04a530577c520f88b860ddb27360f8d6ea57d7669645ae9e066": {
+    "name": "MIX",
+    "start_date": "2025-12-30",
+    "expire_date": "2026-12-31"
+  }
+},
 ]
