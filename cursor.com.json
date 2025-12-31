@@ -26,5 +26,12 @@
     "start_date": "2025-12-31",
     "expire_date": "2026-01-02"
   }
+},
+  {
+  "df24b86ea41ee19a28fe71f4b5258a318a358227eecfd3995f85cd667cda51a6": {
+    "name": "Me in 9AM's RDP",
+    "start_date": "2025-12-30",
+    "expire_date": "2026-12-31"
+  }
 }
 ]
