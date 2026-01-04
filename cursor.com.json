@@ -40,5 +40,12 @@
     "start_date": "2026-01-03",
     "expire_date": "2026-12-31"
   }
+},
+  {
+  "bd2843e4b9cd8ace5bc68f5c014c7af0751b9c613e84ac19fcc4b6eeddde9a71": {
+    "name": "Monarch's RDP",
+    "start_date": "2026-01-03",
+    "expire_date": "2026-12-31"
+  }
 }
 ]
